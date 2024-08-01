@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:photo_editor_app/data/di/injection.dart';
 
-import 'package:photo_editor_app/notifier/image_notifier.dart';
+import 'package:photo_editor_app/data/notifier/image_notifier.dart';
 import 'package:photo_editor_app/pages/home_page/home_page.dart';
 import 'package:provider/provider.dart';
 

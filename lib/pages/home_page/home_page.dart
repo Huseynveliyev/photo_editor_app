@@ -1,7 +1,7 @@
 import 'dart:io';
 import 'package:flutter/material.dart';
 import 'package:photo_editor_app/const/app_colors.dart';
-import 'package:photo_editor_app/notifier/image_notifier.dart';
+import 'package:photo_editor_app/data/notifier/image_notifier.dart';
 import 'package:photo_editor_app/pages/editing_page/image_editing_page.dart';
 import 'package:provider/provider.dart';
 

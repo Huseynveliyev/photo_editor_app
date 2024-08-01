@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:photo_editor_app/notifier/image_notifier.dart';
+import 'package:photo_editor_app/data/notifier/image_notifier.dart';
 import 'package:provider/provider.dart';
 
 class ImageEditingPage extends StatelessWidget {
